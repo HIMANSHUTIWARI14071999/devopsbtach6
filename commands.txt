@@ -2,4 +2,6 @@ This is a new file
 Git init
 git add
 git commit
-git restore 
+git restore
+git config --global user.name 
+git config --gloabl user.email
